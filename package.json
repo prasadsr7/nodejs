@@ -1,19 +1,19 @@
 {
-  "name": "firstnodejs",
+  "name": "nodejs",
   "version": "1.0.0",
-  "description": "firstnodejs",
+  "description": "nodejs",
   "main": "ex1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prasadsr7/firstnodejs.git"
+    "url": "git+https://github.com/prasadsr7/nodejs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/prasadsr7/firstnodejs/issues"
+    "url": "https://github.com/prasadsr7/nodejs/issues"
   },
-  "homepage": "https://github.com/prasadsr7/firstnodejs#readme"
+  "homepage": "https://github.com/prasadsr7/nodejs#readme"
 }
